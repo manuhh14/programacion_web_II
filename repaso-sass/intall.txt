@@ -1,0 +1,16 @@
+#comandos para revisar version de nodeJS y NPM
+
+node --version
+npm --version
+
+#comando para intar SASS desde el gestor de paquetes npm 
+
+npm install -g sass
+
+de igual manera intalar la extencion de sass en VS Code
+
+----------------------------------------------------------------
+
+para ejecutar sass se debe escribir el siguinte comando en la cosola 
+
+sass --watch estilos.scss:estilos.css
